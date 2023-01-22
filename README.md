@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrerar os hábitos.
 
-- [Visite o projeto online](WenerRodrigo.github.io/nlw-setup)
+- [Visite o projeto online](https://raimundob16.github.io/Controle_de_h-bitos)
 
 ## 🔖 Layout
 
